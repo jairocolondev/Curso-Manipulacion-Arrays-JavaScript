@@ -1,0 +1,26 @@
+{
+  "name": "manipulacion-arrays-javascript",
+  "version": "1.0.0",
+  "description": "Perfeccionando la manipulación de Arrays con sus métodos en JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jairocolondev/Curso-Manipulacion-Arrays-JavaScript.git"
+  },
+  "keywords": [
+    "arrays",
+    "javascript"
+  ],
+  "author": "Jairo Colón",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jairocolondev/Curso-Manipulacion-Arrays-JavaScript/issues"
+  },
+  "homepage": "https://github.com/jairocolondev/Curso-Manipulacion-Arrays-JavaScript#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
